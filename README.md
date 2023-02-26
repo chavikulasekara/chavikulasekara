@@ -29,5 +29,5 @@
 ---
 
 
-[linkedin]: [https://www.linkedin.com/in/chamini-vinodya-kulasekara-2aba48227/]
+[linkedin]: https://www.linkedin.com/in/chamini-vinodya-kulasekara-2aba48227/
 
