@@ -29,5 +29,5 @@
 ---
 
 
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: [https://www.linkedin.com/in/chamini-vinodya-kulasekara-2aba48227/]
 
